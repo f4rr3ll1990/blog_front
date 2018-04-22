@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Didattica3D/blog.git"
+    "url": "git+https://github.com/f4rr3ll1990/blog_front.git"
   },
   "keywords": [
     "blog"
   ],
-  "author": "Franchino Fabio",
+  "author": "F4rr3LL",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Didattica3D/blog/issues"
+    "url": "https://github.com/f4rr3ll1990/blog_front/issues"
   },
-  "homepage": "https://github.com/Didattica3D/blog#readme",
+  "homepage": "https://github.com/f4rr3ll1990/blog_front",
   "dependencies": {
     "@nuxtjs/sitemap": "0.0.3",
     "axios": "^0.16.2",
